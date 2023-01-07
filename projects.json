@@ -1,0 +1,14 @@
+[
+    {
+      "name": "NBA Player Stats App",
+      "live": "https://nba-player-stats.vercel.app/",
+      "git": "https://github.com/SonsOfMagnetism/nba-player-stats",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Anime Watchlist App",
+      "live": "https://anime-watchlist.onrender.com/",
+      "git": "https://github.com/SonsOfMagnetism/anime-watchlist",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
